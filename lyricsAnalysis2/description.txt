@@ -1,0 +1,8 @@
+1. 文本预处理
+   - corpus.py 大量文本中得到语料
+   - feature_extration.py  特征值 选取 
+   - tools.py  结果显示
+2. 分析
+   - svm.py   基于SVM的情感分析
+3. 综合
+   - sentimentAnalysis.py
